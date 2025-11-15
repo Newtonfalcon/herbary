@@ -6,10 +6,6 @@ import Footer from "./component/Footer";
 import WhatsAppFloat from "./component/Chat";
 import { icons } from "lucide-react";
 
-// ============================================
-// GLOBAL SEO VARIABLES - UPDATE THESE
-// ============================================
-
 <meta name="google-site-verification" content="qWFGEgdEutxBBLd41s1_wTcSHHq8M39zBXjAUyJcxQo" />
 
 

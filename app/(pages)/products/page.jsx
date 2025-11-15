@@ -213,7 +213,7 @@ export default function FeaturedProducts() {
           </p>
           <button 
             onClick={() => {
-              const whatsappNumber = '1550';
+              const whatsappNumber = '+2347048556600';
               const message = encodeURIComponent('Hello Herbary! I need help choosing the right product for my wellness needs.');
               window.open(`https://wa.me/${whatsappNumber}?text=${message}`, '_blank');
             }}
