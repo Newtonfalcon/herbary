@@ -9,17 +9,21 @@ import { icons } from "lucide-react";
 // ============================================
 // GLOBAL SEO VARIABLES - UPDATE THESE
 // ============================================
+
+<meta name="google-site-verification" content="qWFGEgdEutxBBLd41s1_wTcSHHq8M39zBXjAUyJcxQo" />
+
+
 const SEO_CONFIG = {
   siteName: "Herbary",
-  siteUrl: "https://yourdomain.com", // UPDATE WITH YOUR ACTUAL DOMAIN
+  siteUrl: "https://herbary.vercel.app", // UPDATE WITH YOUR ACTUAL DOMAIN
   tagline: "Naturally, Live Fully",
   description: "Discover premium herbal blends, therapeutic teas, and natural wellness products in Nigeria. Herbary offers organic herbal remedies, custom formulations, and expert wellness consultations. Shop authentic Nigerian herbal products for immunity, detox, energy, sleep, and overall health.",
   logoPath: "/logo.png",
   twitterHandle: null, // UPDATE WITH YOUR TWITTER HANDLE
-  googleVerification: "your-google-verification-code", // UPDATE AFTER GOOGLE SEARCH CONSOLE SETUP
-  location: "Port Harcourt, Rivers State, Nigeria",
-  email: "info@herbary.com",
-  phone: "1550",
+  googleVerification: "qWFGEgdEutxBBLd41s1_wTcSHHq8M39zBXjAUyJcxQo", // UPDATE AFTER GOOGLE SEARCH CONSOLE SETUP
+  location: "Lucklife office No. 3a, 3rd floor opposite St. Thomas Catholic church, Airport Road, Kano state, Nigeria",
+  
+  phone: "+2347048556600",
   themeColor: "#16a34a", // Green color
 };
 
